@@ -10,9 +10,6 @@ With [uv](https://docs.astral.sh/uv/) installed, run this single command from an
 uv tool install git+https://github.com/aambrozkiewicz/randompassword.git
 ```
 
-No manual clone is needed. The project files must be pushed to the GitHub repository
-before this command can be used.
-
 ## Usage
 
 ```sh
