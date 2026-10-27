@@ -4,11 +4,14 @@ Generate random passwords from the command line.
 
 ## Install
 
-With [uv](https://docs.astral.sh/uv/) installed, run this single command from the project directory:
+With [uv](https://docs.astral.sh/uv/) installed, run this single command from any directory:
 
 ```sh
-uv tool install .
+uv tool install git+https://github.com/aambrozkiewicz/randompassword.git
 ```
+
+No manual clone is needed. The project files must be pushed to the GitHub repository
+before this command can be used.
 
 ## Usage
 
